@@ -1,1 +1,1 @@
-# 1D_CNN_transcraniak_magnetic_stimulation
+# 1D_CNN_transcranial_magnetic_stimulation
